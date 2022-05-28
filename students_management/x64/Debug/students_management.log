@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\mimoe\source\repos\students_management\students_management\Source.cpp(19,6): warning C4101: 'ssn': unreferenced local variable
+C:\Users\mimoe\source\repos\students_management\students_management\Source.cpp(79,6): warning C4101: 'ssn': unreferenced local variable
+  students_management.vcxproj -> C:\Users\mimoe\source\repos\students_management\x64\Debug\students_management.exe
